@@ -2,6 +2,12 @@ import business.Order;
 import product.Car;
 import product.HGV;
 
+/**
+ * Motor vehicle management system to create and sell vehicles
+ *
+ * @author Owen Walton
+ */
+
 public class Main {
 
     public static void main(String [] args) {
